@@ -53,7 +53,7 @@
  *	private fecha fechaNac;
  *	
  *	persona(){
- *		fechaNac= new fecha();
+ *		fechaNac= new fecha();---
  *	} 
  *	
  *}
